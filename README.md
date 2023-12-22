@@ -15,7 +15,7 @@ O **InstaZap** é um projeto que visa criar uma interface simples para gerar um 
 Certifique-se de ter Python instalado em seu ambiente. Você pode rodar o projeto executando o script Python:
 
 ```bash
-python nome_do_script.py
+python InstaZap.py
 ```
 
 ## Dependências
